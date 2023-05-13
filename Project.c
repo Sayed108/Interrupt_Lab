@@ -1,3 +1,6 @@
+/*  Name : Elsayed Esam 
+    Date : 14/5/2023
+*/
 //set the LCD connections 
 sbit LCD_RS at RC4_bit;
 sbit LCD_EN at RC5_bit;
